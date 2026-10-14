@@ -1,20 +1,22 @@
-# Hi, I'm Swetha G Y 👋
+### Hi there, I'm Swetha G Y 👋
 
-### Aspiring Software Engineer | Java Developer
+**Aspiring Software Engineer | Java Developer | Backend Enthusiast | Bangalore**
 
-I'm a passionate developer from Bangalore, focused on Java, Data Structures & Algorithms, and building clean, real-world projects.
+📍 Greater Bengaluru | 🎓 CMR University | 💼 Open to SDE Roles
 
-- 🔭 Currently working on: [JAVA - Core Java Practice](https://github.com/Swetha-GY/JAVA)
-- 🌱 Learning: Advanced Java, Spring Boot, DSA
-- 💼 Looking for: SDE / Java Developer Roles
-- 📫 Connect with me: [LinkedIn](https://linkedin.com/in/swetha-gy/)
-- ⚡ Fun fact: I turned "auth failed" into my first live repo in 15 minutes!
+#### 🚀 About Me
+Passionate Java developer with hands-on experience in Core Java, OOP, Data Structures & Algorithms, and Full Stack fundamentals. Daily coder, problem solver, and lifelong learner. Building strong backend foundations for real-world applications.
 
-### 🛠️ Tech Stack
-`Java` `HTML` `CSS` `JavaScript` `Git & GitHub` `MySQL`
+#### 🛠️ Tech Stack
+`Java` `OOP` `DSA` `MySQL` `HTML5` `CSS3` `JavaScript` `Git` `GitHub`
 
-### 📌 Pinned Project
-- **JAVA** - Clean repository of core Java programs with best practices (GitIgnore, Commits, README)
+#### 📂 Featured Projects
+- **JAVA Repository** — 28+ programs covering Core Java, Collections, HashMap, ArrayList, Exception Handling & DSA
+- **More projects coming soon...**
 
----
-⭐ *Let's connect and grow together!*
+#### 📊 GitHub Stats
+- Daily contributions
+- 28+ Java programs committed
+- Focused on clean code & problem-solving
+
+> "Code daily, learn daily, grow daily."
